@@ -1,1 +1,3 @@
---博客初次建立   李学智
+### Welcome to smilezhi's blog
+
+nice to meet you!!!
