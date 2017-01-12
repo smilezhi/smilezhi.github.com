@@ -1,2 +1,2 @@
 # Welcome to my blog
-## 1.*It* is a day 
+## It is a good day. 
